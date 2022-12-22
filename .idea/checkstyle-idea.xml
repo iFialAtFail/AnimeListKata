@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>8.16</checkstyleVersion>
+    <scanScope>AllSourcesWithTests</scanScope>
+    <copyLibs>true</copyLibs>
+    <option name="activeLocationIds">
+      <option value="0b95faf3-66ea-4fb7-8011-436d2efd1a85" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="0b95faf3-66ea-4fb7-8011-436d2efd1a85" type="LOCAL_FILE" scope="All" description="dematic_checks">C:/Projects/dematic_checks.xml</ConfigurationLocation>
+        <ConfigurationLocation id="ba1e479e-dcbd-4a3e-88d3-f4cb36498b42" type="LOCAL_FILE" scope="All" description="dematic_checks_HTTP">C:/Program Files (x86)/IntelliJ IDEA 2020.1.2/bin/dematic_checks.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
