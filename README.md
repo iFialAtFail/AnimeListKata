@@ -11,3 +11,7 @@ The heart of the project is going to be an Anime list, where we can do things li
 5. Allow users to see other users lists
 
 This project will start of simple. A simple Java project using Maven. As it gets developed, it may become a java web application or it may turn into a microservice backend that will have a separate project for the front end. Or it may go stale and get no work done. Who knows :D
+
+Command to run spring boot application:
+./mvnw spring-boot:run
+
