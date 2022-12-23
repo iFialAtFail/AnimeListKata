@@ -10,12 +10,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="anime-list" target="17" />
+      <module name="spring-boot-initial" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="anime-list" options="-parameters" />
+      <module name="spring-boot-initial" options="-parameters" />
     </option>
   </component>
 </project>
